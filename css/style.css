@@ -1,0 +1,13 @@
+.logo{
+	width: 80px;
+	height: 80px;
+}
+aside{
+	float: right;
+	margin: 0;
+}
+.contenedor{
+	width: 200px;
+	height: 100%;
+	border: 1px;
+}
